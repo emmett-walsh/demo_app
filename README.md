@@ -17,6 +17,6 @@ $ gem install bundler && bundle
 ## Running the app
 Run the app locally using:
 ```
-ruby app.rb
+$ ruby app.rb
 ```
 After that navigate to `localhost:4567` in your web browser. If everything has gone to plan you should see a friendly "hello there".
